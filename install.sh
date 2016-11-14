@@ -8,7 +8,7 @@ brew cask install macdown
 brew cask install xmind
 
 brew cask install robomongo
-brew cask install pgadmin3
+brew cask install pgadmin4
 brew cask install sqlitebrowser
 
 brew cask install vagrant
@@ -23,7 +23,8 @@ brew cask install handbrake
 
 brew cask install firefox
 brew cask install google-chrome	
-brew cask install flash
+brew cask install flash-npapi
+brew cask install flash-ppapi
 
 brew cask install skype
 brew cask install spotify
